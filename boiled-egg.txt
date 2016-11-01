@@ -1,0 +1,24 @@
+Ingredients : 
+1 egg
+2 l  water
+
+
+Material:
+Heater
+Spoon
+Recipient 1
+Recipient 2
+Water
+
+Info:
+Soft boiled egg or hard boiled egg?
+
+
+Prepare:
+Put 1 l water in recipient 1 and heat it to 100 °C
+Put egg in boiling water.
+Set timer to 4 min for soft 
+Set timer to 10 min for hard
+While timer not alarm put 1 l water in recipient 2
+After alarm put egg in recipient 2 for 15 secs.
+Remove egg from recipient 2 and serve.
